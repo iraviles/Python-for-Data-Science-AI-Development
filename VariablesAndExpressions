@@ -1,6 +1,3 @@
-Sure! Here is the documentation for **Expressions and Variables** in Python, formatted for markdown.
-
-```markdown
 # Expressions and Variables in Python
 
 ## 1. Introduction to Variables and Expressions
@@ -214,5 +211,3 @@ else:
 | `not`        | Logical NOT                          | `not True` is `False`       |
 
 ---
-
-This documentation covers the essential concepts of variables and expressions in Python. Feel free to copy this directly into your markdown file. Would you like to add anything else or modify any part of it?
