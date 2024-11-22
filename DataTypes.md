@@ -185,4 +185,4 @@ print(num_str2)  # salida: '123'
 
 ---
 
-Esto cubre una introducción completa a los tipos de datos básicos en Python. Si te parece bien, podemos seguir desarrollando los siguientes temas o agregar más ejemplos y detalles según lo necesites.
+
